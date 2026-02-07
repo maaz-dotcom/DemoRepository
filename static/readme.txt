@@ -1,0 +1,1 @@
+Note: git by default ignore blank directory/folder.

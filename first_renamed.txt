@@ -1,0 +1,10 @@
+Check what you added:
+git status
+
+Start a new repo:
+git init
+
+git --a
+hfhf
+
+chnage
